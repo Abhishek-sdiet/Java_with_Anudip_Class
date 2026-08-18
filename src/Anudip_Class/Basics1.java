@@ -51,6 +51,10 @@ public class Basics1 {
 //            }
 //        }
 
+        // Hollow pyramid from number
+
+
+
 
 
     }
